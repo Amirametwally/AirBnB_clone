@@ -80,3 +80,7 @@
 .places div.description {
     text-align: left;
 }
+
+.places div.user {
+    margin-top: 15px;
+}
